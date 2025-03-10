@@ -1,8 +1,5 @@
 # GTFOBins_Offline_Version
 
-![微信图片_20250306163754](C:/Users/31702/Pictures/Saved%20Pictures/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250306163754.jpg)
-
-
 ## 📖 简介
 GTFOBins 离线桌面版是一个桌面应用程序，它提供了 Unix 二进制文件的完整离线数据库，这些二进制文件可用于绕过配置错误系统中的本地安全限制。
 
