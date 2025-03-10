@@ -19,6 +19,11 @@ GTFOBins 离线桌面版是一个桌面应用程序，它提供了 Unix 二进�
 - **HTML/CSS/JavaScript**
 - **基于 GTFOBins 原始内容**
 
+## ✔ 编译方式
+```
+npm run package
+```
+
 ## 📥 安装
 1. 下载最新的发行版 `.exe` 文件。
 2. 运行 `.exe` 文件。
